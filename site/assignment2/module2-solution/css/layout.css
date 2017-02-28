@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bolder;
+  margin: 15px;
+}
+h1 {
+  font-size: 1.75em;
+  margin: 20px 0;
+  text-align: center;
+}
+div#container {
+  background-color: #999999;
+  position: relative;
+  margin: 10px;
+}
+p {
+  border: 3px solid black;
+}
+.menu-title {
+  font-size: 1.25em;
+  position: absolute;
+  right: 0;
+  padding: 0 45px;
+}
+.menu-description {
+  padding: 35px 10px 10px 10px;
+}
+#mt1 {
+    background-color: #df9f9f;
+    color: black;
+}
+#mt2 {
+    background-color: #c2380a;
+    color: white;
+}
+#mt3 {
+    background-color: #f2d9a6;
+    color: black;
+}
